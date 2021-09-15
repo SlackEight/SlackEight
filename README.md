@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SlackEight or Morgan Blem
-- 👀 I’m interested in deep learning and time-series forecasting
+- 👀 I’m interested in data science
 - 🌱 Training to be the very best
 - 📫 SlackEight#0001 on Discord - feel free to add me
 - 🎵 I make music too at https://soundcloud.com/morganblem
